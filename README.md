@@ -13,12 +13,6 @@ In the future the webapp will be hosted on a domain but for now its still in dev
 
 **Node version 14.x**
 
-### Cloning the repository
-
-```shell
-git clone https://github.com/bouzayenilyes/lingo.git
-```
-
 ### Install packages
 
 ```shell
