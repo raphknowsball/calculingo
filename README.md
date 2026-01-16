@@ -1,27 +1,13 @@
-<h1>Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)</h1>
-<h3>This is a repository for a "Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)</h3>
-Key Features:
-- 🌐 Next.js 14 & server actions
-- 🗣 AI Voices using Elevenlabs AI
-- 🎨 Beautiful component system using Shadcn UI
-- 🎭 Amazing characters thanks to KenneyNL
-- 🔐 Auth using Clerk
-- 🔊 Sound effects
-- ❤️ Hearts system
-- 🌟 Points / XP system
-- 💔 No hearts left popup
-- 🚪 Exit confirmation popup
-- 🔄 Practice old lessons to regain hearts
-- 🏆 Leaderboard
-- 🗺 Quests milestones
-- 🛍 Shop system to exchange points with hearts
-- 💳 Pro tier for unlimited hearts using Stripe
-- 🏠 Landing page
-- 📊 Admin dashboard React Admin
-- 🌧 ORM using DrizzleORM
-- 💾 PostgresDB using NeonDB
-- 🚀 Deployment on Vercel
-- 📱 Mobile responsiveness
+# Calcalingo
+
+## Purpose 
+
+This is a calculus tutoring webapp that I am developing in order to help my peers and I learn the concepts of calculus in a way that helps them determine and actively work on their weaknesses and concepts that they feel weak at. I was going to do this by using a RAG system where we put in a whole textbook (of the users choice) into the system and also an AI using the RAG system and the answers a user gives, or the questions they ask after a chapter to create new questions for them to reinforce those concepts.
+
+## Timeline
+
+I hope to get this finished before my final exams of my calculus course in June 2026!
+In the future the webapp will be hosted on a domain but for now its still in development.
 
 ### Prerequisites
 
